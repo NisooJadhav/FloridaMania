@@ -2,7 +2,7 @@
   <img src="https://github.com/NisooJadhav/FloridaMania/assets/68807845/ee5d829a-653c-4488-b316-d581c519c6e7" />  
 </p>
   
-FloridaMania is an open-source project dedicated to showcasing the exciting and unique stories of Florida. From [bizarre headlines](https://www.legit.ng/ask-legit/1531956-30-craziest-florida-man-headlines-meme-alive/) to amazing adventures, FloridaMania brings you the best of Florida through a curated selection of news articles.
+[**FloridaMania**](https://floridamania.onrender.com/) is an open-source project dedicated to showcasing the exciting and unique stories of Florida. From [bizarre headlines](https://www.legit.ng/ask-legit/1531956-30-craziest-florida-man-headlines-meme-alive/) to amazing adventures, FloridaMania brings you the best of Florida through a curated selection of news articles.
 
 ## Features
 - 📰 Fetches news articles from the Google News RSS [Feed](https://news.google.com/rss/search?q=florida_man&hl=en-IN&gl=IN&ceid=IN:en).
