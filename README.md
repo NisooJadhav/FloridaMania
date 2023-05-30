@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/NisooJadhav/FloridaMania/assets/68807845/ee5d829a-653c-4488-b316-d581c519c6e7" />  
+  
+  <img src="https://i.ibb.co/LnNTHbQ/hero.jpg" />
+  
 </p>
   
 [**FloridaMania**](https://floridamania.onrender.com/) is an open-source project dedicated to showcasing the exciting and unique stories of Florida. From [bizarre headlines](https://www.legit.ng/ask-legit/1531956-30-craziest-florida-man-headlines-meme-alive/) to amazing adventures, FloridaMania brings you the best of Florida through a curated selection of news articles.
