@@ -3,7 +3,11 @@
   <img src="https://i.ibb.co/LnNTHbQ/hero.jpg" />
   
 </p>
-  
+
+# FloridaMania
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/nisoojadhav/wikilite)
+
 [**FloridaMania**](https://floridamania.onrender.com/) is an open-source project dedicated to showcasing the exciting and unique stories of Florida. From [bizarre headlines](https://www.legit.ng/ask-legit/1531956-30-craziest-florida-man-headlines-meme-alive/) to amazing adventures, FloridaMania brings you the best of Florida through a curated selection of news articles.
 
 ## Features
@@ -28,4 +32,4 @@ Contributions and feature upgradation requests are highly encouraged and welcome
 🎉 We look forward to your contributions! 🎉
 
 ## License
-FloridaMania is released under the MIT License.
+FloridaMania is released under the [MIT License](https://opensource.org/license/mit/).
